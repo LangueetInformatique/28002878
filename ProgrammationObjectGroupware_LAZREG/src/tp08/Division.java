@@ -2,10 +2,9 @@ package tp08;
 
 public class Division {
 
-	private static int j;
 
 	public static void main(String[] args) {
-		int i = 1000;
+		int i = 1000,j;
 		do{
 			i--;
 			try{j=1/i;}
