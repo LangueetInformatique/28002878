@@ -1,3 +1,10 @@
+package devoir02;
+/**
+ * 
+ * @author mustapha
+ *
+ */
+
 import java.util.*;
 
 public class Promotion {
