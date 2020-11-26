@@ -3,7 +3,6 @@ package tp09;
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
-import util.Keyboard;
 
 public class MonPremierFichierTexte {
 	/*
@@ -12,7 +11,7 @@ public class MonPremierFichierTexte {
 	*/
 
 	public static void main (String[] args) {
-		String ligne;
+		//String ligne;
 		String nfich = "src/tp09/Nom.txt";
 		try {
 			File f = new File(nfich);
