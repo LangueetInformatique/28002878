@@ -1,5 +1,4 @@
-package devoir04;
-
+package devoir05;
 
 class E421 extends Exception{ 
 	  public E421(TroisDes t){

@@ -1,4 +1,4 @@
-package devoir04;
+package devoir05;
 
 public class TroisDes {
 	private String nom;

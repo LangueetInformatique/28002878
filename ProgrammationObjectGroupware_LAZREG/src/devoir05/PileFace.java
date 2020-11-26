@@ -1,4 +1,4 @@
-package devoir04;
+package devoir05;
 
 import tp08.aleat;
 
